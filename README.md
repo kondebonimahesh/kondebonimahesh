@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Programmer from INDIA who is interested in opensource </h3>
 <img align="right" alt="Coding" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhluongptit&label=Profile%20views&color=0e75b6&style=flat" alt="vinhluongptit" /> </p>
-
 - 🌱 I’m currently learning **AI - ML - CYBERSECURITY**
 
 - 💬 Ask me about **Programming**
