@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer from INDIA who is interested in opensource </h3>
 <img align="right" alt="Coding" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true">
 
-- 🌱 I’m currently learning **AI - ML - CYBERSECURITY**
+- 🌱 I’m  learning 
 
 - 💬 Ask me about **Programming**
 
